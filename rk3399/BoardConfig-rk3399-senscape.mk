@@ -3,7 +3,7 @@
 # Target arch
 export RK_ARCH=arm64
 # Uboot defconfig
-export RK_UBOOT_DEFCONFIG=rk3399-senscape
+export RK_UBOOT_DEFCONFIG=senscape-rk3399
 # Kernel defconfig
 export RK_KERNEL_DEFCONFIG=rk3399_senscape_defconfig
 # Kernel dts
